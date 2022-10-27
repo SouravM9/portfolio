@@ -1,0 +1,15 @@
+Sanity Setup 
+-Create a project in sanity.io & copy the commands inside sanity folder
+-npx @sanity/cli start
+
+Creating frontend
+npx create-react-app portfolio-frontend
+cd portfolio-frontend
+npm start
+
+npm install react-tooltip
+npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
+
+
+https://www.framer.com/motion/
+https://www.sanity.io/manage
