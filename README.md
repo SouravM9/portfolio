@@ -8,4 +8,4 @@ This is a portfolio designed using ReactJS, SCSS for Frontend & Sanity for Backe
 
 ## Check out live
 
-[Link to portfolio](https://souravm-portfolio.netlify.app/)
+[Link to portfolio](https://sourav-mazumdar.netlify.app/)
