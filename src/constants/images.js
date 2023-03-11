@@ -38,6 +38,8 @@ import tcs from '../assets/TCS.png';
 import resume from '../assets/resume.png';
 import gmail from '../assets/gmail.svg';
 
+import wavePerson from '../assets/waving_person.gif'
+
 export default {
   email,
   mobile,
@@ -74,5 +76,6 @@ export default {
   spotify,
   tcs, 
   resume,
-  gmail
+  gmail,
+  wavePerson
 };
